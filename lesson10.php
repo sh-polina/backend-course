@@ -2,7 +2,7 @@
 
 ?>
 
-<form action="server.php" method="post">
+<form action="server13.php" method="post">
     <fieldset>
         <legend>Номер</legend>
         <input type="tel" name="tel" pattern="+375-[0-9]{2}-[0-9]{3}-[0-9]{2}-[0-9]{2}" placeholder="+375-..-...-..-.." required>
